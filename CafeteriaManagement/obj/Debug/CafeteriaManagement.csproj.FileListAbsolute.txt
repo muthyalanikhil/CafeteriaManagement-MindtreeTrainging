@@ -1,0 +1,6 @@
+D:\Practice\Assignment_6-8-15\CafeteriaManagement\CafeteriaManagement\bin\Debug\CafeteriaManagement.exe.config
+D:\Practice\Assignment_6-8-15\CafeteriaManagement\CafeteriaManagement\bin\Debug\CafeteriaManagement.exe
+D:\Practice\Assignment_6-8-15\CafeteriaManagement\CafeteriaManagement\bin\Debug\CafeteriaManagement.pdb
+D:\Practice\Assignment_6-8-15\CafeteriaManagement\CafeteriaManagement\obj\Debug\CafeteriaManagement.exe
+D:\Practice\Assignment_6-8-15\CafeteriaManagement\CafeteriaManagement\obj\Debug\CafeteriaManagement.pdb
+D:\Practice\Assignment_6-8-15\CafeteriaManagement\CafeteriaManagement\obj\Debug\CafeteriaManagement.csprojResolveAssemblyReference.cache
